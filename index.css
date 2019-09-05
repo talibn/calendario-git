@@ -1,0 +1,18 @@
+h1 {
+	text-align: center;
+}
+
+#calendario {
+	position: relative;
+	width: 400px;
+	height: 400px;
+	margin: 15px 100px;
+	border: 1px solid black;
+	font-size: 24px;
+	
+}
+
+th,
+td {
+	text-align: center;
+}
