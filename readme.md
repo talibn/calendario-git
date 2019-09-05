@@ -1,4 +1,4 @@
-#calendario 35	
+#calendario
 
 Proyecto con HTML, CSS, JS
 
